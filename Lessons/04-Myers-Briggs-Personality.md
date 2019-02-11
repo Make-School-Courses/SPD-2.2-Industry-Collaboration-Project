@@ -16,4 +16,4 @@
 
 ## Additional Resources
 
-1. 
+1. [Class Slides](https://docs.google.com/presentation/d/1I8-GPFbXuublreJyaM9W7DVgWu1VE5ks_zFb7mBPfq4/edit#slide=id.g47c9952448_0_0)
