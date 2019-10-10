@@ -6,22 +6,11 @@ Students team up to work on an ambitious project of their choice or with actual 
 
 Students can find an organization to work with on their own or select from a group of preselected organizations. Students also have the option to work on their own original idea.
 
-
-## Course Specifics
-
-Weeks to Completion:  7 <br>
-Total Seat Hours:  37.5 hours <br>
-Total Out-of-Class Hours: 75 hours <br>
-Total Hours: 112.5 hours <br>
-Units:  3 units <br>
-Delivery Method:  Residential <br>
-Class Sessions:  14 classes, plus 7 coaching meetings and 24 huddles
-
 ## Prerequisites:  
 
-SPD 1.4
+[SPD 2.1](https://github.com/Make-School-Courses/SPD-2.1-Industry-Collaboration-Project)
 
-## Learning Objectives or Competencies
+## Learning Outcomes
 
 Students by the end of the course will be able to ...
 
@@ -33,57 +22,38 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
-**Course Dates:** Tuesday, October 23, 2018  – Thursday, December 13, 2018 (7 weeks)
+**Course Dates:** Tuesday, October 22 – Thursday, December 12, 2019 (8 weeks)
 
-**Class Times:** Tuesday and Thursday at 10:00 – 11:20pm (14 class sessions)
-
-**Huddle Times: ** 9:30 - 10:00 Monday - Thursday. Content is in google calendar event descriptions.
-
+**Class Times:** Tuesday and Thursday at 3:30–5:20pm (15 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tuesday              | [Team Performance] |
-|  2 | Thursday             | [Sprint Retrospective] |
-|  3 |  Tuesday             | [Teamwork Skills Interviewing] |
-|  4 | Thursday             | [Sprint Retrospective] |
-|  5 |  Tuesday             | [Investor Pitches] |
-|  6 | Thursday             | [Sprint Retrospective] |
-|  7 |  Tuesday             | [Myers Briggs]|
-|  8 | Thursday            | [Sprint Retrospective] |
-|  9 |  Tuesday             | Don Rags |
-|  10 | Thursday             | Fall Break |
-|  11 |  Tuesday             | [Bash And Unix] |
-|  12 | Thursday            |  [Product Pitch]|
-|  13 |  Tuesday            | Final Presentations to Industry Partners |
-|  14 | Thursday             | [Adoption] |
+|  1 |   Tue, Oct 22             | Intro to Developer Analytics & Data Driven Design |
+|  2 |   Thu, Oct 24             | Sprint/Retro 1 |
+|  3 |   Tue, Oct 29             | [Intro to Growth Experiments & Funnel] |
+|  4 |   Thu, Oct 31             | Sprint/Retro 2 |
+|  5 |   Tue, Nov 5              | Custom Dashboarding |
+|  6 |   Thu, Nov 7              | [Pitches] + Sprint/Retro 3 |
+|  7 |   Tue, Nov 12             | [Metrics pt 2] |
+|  8 |   Thu, Nov 14             | Sprint/Retro 4 |
+|  9 |   Tue, Nov 19             | CI |
+| 10 |   Thu, Nov 21             | [Handoff Prep] + Sprint/Retro 5 |  
+| 11 |   Tue, Nov 26             | Practice Presentations + LAB |
+| - |   Thu, Nov 28              | **NO CLASS** - Thanksgiving  |
+| 12 |   Tue, Dec 3              | Sprint/Retro 6 |
+| 13 |   Thu, Dec 5              | LAB |
+| 14 |   Tue, Dec 10             | Final Presentation  |
+| 15 |   Thu, Dec 12             | Assessment  |
 
-[Team Performance]: Lessons/01-Team-Perfomance.md
-[Teamwork Skills Interviewing]: Lessons/02-Teamwork-Skills-Interviewing.md
 
-[Investor Pitches]: Lessons/03-Investor-Pitches.md
-[Myers Briggs]: Lessons/04-Myers-Briggs-Personality.md
-[Bash And Unix]: Lessons/05-Bash-And-Unix.md
-[Product Pitch]: Lessons/06-Product-Pitch.md
-[Adoption]: Lessons/07-Adoption.md
-[Sprint Retrospective]: Lessons/Sprint-Retrospective-And-Planning.md
+[Intro to Growth Experiments & Funnel]: (https://docs.google.com/presentation/d/1JHNEOUTT7KgR4zLYsKOOwiJQ5Yga69HCNMawwIokJks/edit?usp=sharing)
+[Pitches]:(https://docs.google.com/presentation/d/1bth-nBtPN4ZvytZHS57pcExEWrmfFNGyD8p-xII7gn0/edit?usp=sharing)
+[Metrics pt 2]:(https://docs.google.com/presentation/d/1cfklRuBVZO4mRanvngIhgG3zBddVzPBQU7Fspn_SuBo/edit?usp=sharing)
+[Handoff Prep]:(https://docs.google.com/presentation/d/1BtYFGDe7k7e50e2EHf5K3noqyaA7UH7EI5KaW8GTWXc/edit?usp=sharing)
 
-## Tutorials & Projects
 
-### SPD 2.1
-1. *Letter of Engagement* - Document that outlines the goals, scope, collaboration process and timeline for the company project ([templates & submission folder](https://drive.google.com/drive/u/0/folders/1orfy2fxAccRzS1u8AF91bGAgugjT1F3c))
-    - __Due: Sept 25th__
-    - Evaluation: scores above a 2 on the [Writing and Blog Post Rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit)
-1. *Product Mock Ups*
-    1. *Wireframes* - user interface mock up for your app
-    1. *User Narrative* - narrative explaining the actions and thoughts of a new user on your app
-    1. *Entity Relationship Diagrams "ERDs"* - relationship between different entities of your app
-    - __Due: Oct 2nd__
-    - Evaluation: model evaluation off of [this criteria](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/01-interviews-journeys-wireframes.md)
-1. *Product Prototype* - A fully functional prototype of the technical solution (or app that uses the API). Code includes documentation and comments so future developers can easily build on the product. Recommendations for future features and development.
-(https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit)
- - **Due Oct 11**
+## Assignmnts
 
-### SPD 2.2
 1. *Final Presentation* - A slide show presentation that details the team's process, product decisions, and suggestions for future development. Teams will invite their industry collaborator to their final presentation that occurs at the end of SPD 2.2. Here [tips](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0) for presentation slides.
     - __Due December 11th__
     - Evaluation - score an average of above a 3 on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit)
@@ -103,7 +73,7 @@ To pass this course you must meet the following requirements:
 
 - Complete all required tutorials
 - Pass all projects according to the associated project rubric
-- Present a Prototype (Term 1) and Product (Term 2)
+- Present a Product
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
@@ -122,22 +92,13 @@ To pass this course you must meet the following requirements:
 - **Letter of Engagement Templates** - customize [these templates](https://drive.google.com/drive/u/0/folders/1orfy2fxAccRzS1u8AF91bGAgugjT1F3c) to outline the objectives, scope, and timeline for your project.
 
 
-## Attendance
-Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
-
-Attendance requirements for scheduled sessions are:
-- No more than two no call no shows per term in any scheduled session.
-- No more than four excused absences per term in any scheduled session.
-
-Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School.
-
-
 ## Make School Course Policies
 
-[Academic Honesty](https://make.sc/academic-honesty)<br>
-[Accommodations for Students](https://make.sc/accommodations-for-students)<br>
-[Attendance Policy](https://make.sc/attendance-policy)
-[Diversity and Inclusion Policy](https://make.sc/diversity-and-inclusion-policy)<br>
-[Grading System](https://make.sc/grading-system)<br>
-[Title IX Policy](https://make.sc/title-ix-policy)<br>
-[Program Learning Outcomes](https://make.sc/program-learning-outcomes)
+- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
+- [Grading System](https://make.sc/grading-system) - How grading is done at Make School
+- [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement) - Learn about Diversity and Inclusion at Make School
+- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct 
+- [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
+- [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
+- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
+- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
