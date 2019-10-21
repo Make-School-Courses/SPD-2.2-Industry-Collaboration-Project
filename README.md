@@ -53,23 +53,23 @@ Students by the end of the course will be able to ...
 ## Assignmnts
 
 1. **Add Analytics to a Personal Project** - add analytics to a live personal project of your choice. The ability to capture metrics will allow us to track stats on our growth experiments in our next assignment ...
-    - __Due Oct 29th__
-    - Evaluation - TBD, will be defined Oct 23rd and announced
+    - **Due Oct 29th**
+    - **Evaluation** - TBD, will be defined Oct 23rd and announced
 
 1. **Conduct two Growth Experiments** - conduct two growth experiments for a live personal product. If your product is not yet of quality that you are comfortable asking people to download, share it to get feedback and track engagement with your posts.
-    - __Due Nov 19th__
-    - Evaluation - Execution of three experiments
+    - **Due Nov 19th**
+    - **Evaluation** - Execution of three experiments
 
 1. **Peer Evaluations** - Get an average score above a 3 on your Peer Evaluation
-    - __Conducted Nov 12th & Dec 5th_
+    - __Conducted Nov 12th & Dec 5th__
 
 1. **Final Presentation** - A slide show presentation that details the team's process, product decisions, and suggestions for future development. Teams will invite their industry collaborator to their final presentation that occurs at the end of SPD 2.2. Here [tips](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0) for presentation slides.
-    - __Due December 11th__
-    - Evaluation - score an average of above a 3 on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit)
+    - **Due December 11th**
+    - **Evaluation** - score an average of above a 3 on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit)
 
 1. **Final Product** - Your team's final product should score an average of 3 on the [Portfolio Project Rubric](http://make.sc/portfolio-project-rubric)
-    - __Due December 13th__
-    - Evaluation - Team's project must above a 3 on the [Portfolio Project Rubric]
+    - **Due December 13th**
+    - **Evaluation** - Team's project must above a 3 on the [Portfolio Project Rubric]
 
 ## Collaboration Expectations
 
