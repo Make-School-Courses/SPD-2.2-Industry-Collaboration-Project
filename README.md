@@ -1,10 +1,8 @@
-# SPD 2.2 Industry Collaboration Project 2
+# SPD 2.2 Industry Collaboration Project 2: Analytics & Growth
 
 ## Course Description
 
-Students team up to work on an ambitious project of their choice or with actual organizations or other student teams to co-develop software products. This experience simulates many challenges and opportunities of actual work environments including, managing stakeholders, cross team collaboration, leading teams, managing up, conflict resolution, advocating for their ideas, increasing probability of adoption within an organization and users. Key concepts of how to lead and how to follow, how to manage and how to be managed are taught through role playing, discussion, and and in depth reading list of both current and classical writings on leadership. For students who never want a job as a manager to those who want to climb the corporate ladder, the course provides vital lessons on how teams work and how to make them great.
-
-Students can find an organization to work with on their own or select from a group of preselected organizations. Students also have the option to work on their own original idea.
+Students continue work on their industry collaboration project from last term. Now that their products are live, teams will work to acquire and retain users using industry practices in growth marketing. Teams also make data-driven design decisions based off site traffic. This class experience continues to simulates many challenges and opportunities of actual work environments.
 
 ## Prerequisites:  
 
@@ -13,12 +11,12 @@ Students can find an organization to work with on their own or select from a gro
 ## Learning Outcomes
 
 Students by the end of the course will be able to ...
-
-1. Collaborate cross functionally to various stakeholders such as engineers, project managers, and founders. (PLO 4)
-1. Proactively set and clarify expectations with collaborators and suggest solutions (PLO 4).
-1. Utilize project management and decision making best practices to build a product (PLO 4, PLO 6).
-1. Ship a product to actual users and iterate to user needs (PLO 3).
-1. Conduct agile sprints with a team of 5+ engineers (PLO 3).
+1. Describe the role of user analytics for product developers
+1. Explain the various site usage metrics product developers track and what they inform
+1. Conduct a user growth experient
+1. Acquire, retain, and upsell prospective users through growth strategies
+1. Ship a product to actual users and iterate to user needs.
+1. Conduct agile sprints with a team of 5+ engineers.
 
 ## Schedule
 
