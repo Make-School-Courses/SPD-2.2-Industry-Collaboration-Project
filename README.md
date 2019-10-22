@@ -44,7 +44,7 @@ Students by the end of the course will be able to ...
 | 15 |   Thu, Dec 12             | Assessment  |
 
 
-[Intro to Developer Analytics & Data Driven Design]: (Lessons/01-Analytics.md)
+[Intro to Developer Analytics & Data Driven Design]:Lessons/01-Analytics.md
 [Intro to Growth Experiments & Funnel]: (https://docs.google.com/presentation/d/1JHNEOUTT7KgR4zLYsKOOwiJQ5Yga69HCNMawwIokJks/edit?usp=sharing)
 [Pitches]:(https://docs.google.com/presentation/d/1bth-nBtPN4ZvytZHS57pcExEWrmfFNGyD8p-xII7gn0/edit?usp=sharing)
 [Metrics pt 2]:(https://docs.google.com/presentation/d/1cfklRuBVZO4mRanvngIhgG3zBddVzPBQU7Fspn_SuBo/edit?usp=sharing)
