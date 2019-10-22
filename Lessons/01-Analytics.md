@@ -36,7 +36,7 @@ Web analytics is the process of analyzing the behavior of visitors to a Web site
 
 ## 💻 [15m] Activity: What Will You Track?
 
-Write down all the different things that can happen in a specific personal project, or in your industry collaboration project.
+Write down all the different things that can happen in a specific personal project of your choice.
 
 Ask yourself: What can a user click on? What are they trying to accomplish?
 
@@ -51,7 +51,7 @@ Ask yourself: What can a user click on? What are they trying to accomplish?
 
 ## 💻 [45m] Activity: Add Tracking
 
-Implement three different tracking techniques in your industry collaboration project or your personal project.
+Implement three different tracking techniques in your personal project.
 
 ## 🌃 After Class
 
