@@ -5,10 +5,10 @@
 1. [🏆 [5m] Learning Objectives](#%f0%9f%8f%86-5m-learning-objectives)
 2. [💻 [15m] Warm Up: Think, Pair, Share](#%f0%9f%92%bb-15m-warm-up-think-pair-share)
 3. [📖 [15m] Overview](#%f0%9f%93%96-15m-overview)
-4. [[15m] Activity: What Will You Track?](#15m-activity-what-will-you-track)
-5. [[10m] 🌴 BREAK](#10m-%f0%9f%8c%b4-break)
-6. [[15m] Demo: Code that Tracks](#15m-demo-code-that-tracks)
-7. [💻 [45m] In Class Activity](#%f0%9f%92%bb-45m-in-class-activity)
+4. [💻 [15m] Activity: What Will You Track?](#%f0%9f%92%bb-15m-activity-what-will-you-track)
+5. [🌴 [10m] BREAK](#%f0%9f%8c%b4-10m-break)
+6. [💻 [15m] Demo: Code that Tracks](#%f0%9f%92%bb-15m-demo-code-that-tracks)
+7. [💻 [45m] Activity: Add Tracking](#%f0%9f%92%bb-45m-activity-add-tracking)
 8. [🌃 After Class](#%f0%9f%8c%83-after-class)
 9. [📚 Resources & Credits](#%f0%9f%93%9a-resources--credits)
 
@@ -34,7 +34,7 @@ Web analytics is the process of analyzing the behavior of visitors to a Web site
 - **Tracking Pixels**: A tracking pixel is an HTML code snippet which is loaded when a user visits a website or opens an email. It is useful for tracking user behavior and conversions. With a tracking pixel, advertisers can acquire data for online marketing, web analysis or email marketing.
 - **Event Tracking**: Event tracking is a useful feature that allows you to record interactions with elements of your website which aren't tracked as standard within the product. Think of them as custom, trackable events.
 
-## [15m] Activity: What Will You Track?
+## 💻 [15m] Activity: What Will You Track?
 
 Write down all the different things that can happen in a specific personal project, or in your industry collaboration project.
 
@@ -42,14 +42,14 @@ Ask yourself: What can a user click on? What are they trying to accomplish?
 
 **Write down every event you can think of for your project and app.** We will learn how to track these metrics after the break!
 
-## [10m] 🌴 BREAK
+## 🌴 [10m]  BREAK
 
-## [15m] Demo: Code that Tracks
+## 💻 [15m] Demo: Code that Tracks
 
 - Google Analytics
 - Optimizely
 
-## 💻 [45m] In Class Activity
+## 💻 [45m] Activity: Add Tracking
 
 Implement three different tracking techniques in your industry collaboration project or your personal project.
 
