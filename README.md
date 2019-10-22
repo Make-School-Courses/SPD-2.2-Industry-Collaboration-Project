@@ -70,6 +70,8 @@ Students by the end of the course will be able to ...
 1. **Final Product** - Your team's final product should score an average of 3 on the [Portfolio Project Rubric](http://make.sc/portfolio-project-rubric)
     - **Due December 13th**
     - **Evaluation** - Team's project must above a 3 on the [Portfolio Project Rubric]
+    
+1. **[OPTIONAL Blog post](https://docs.google.com/document/d/1EQVdpws0rmoK2HwpHU0aiRY9Qh3xNkSjt4EHGwMlTEU/edit)** - Write a post to dive deep into some aspect of Growth Engineering OR capture the success of your growth experiment. This is recommended as a stretch challenge for anybody interested in the subject or students who want to be a PM, Engineering Lead, or work in an analytics role in the future.
 
 ## Collaboration Expectations
 
