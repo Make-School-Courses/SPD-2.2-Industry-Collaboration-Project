@@ -4,7 +4,7 @@
 
 Students continue work on their industry collaboration project from last term. Now that their products are live, teams will work to acquire and retain users using industry practices in growth marketing. Teams also make data-driven design decisions based off site traffic. This class experience continues to simulates many challenges and opportunities of actual work environments.
 
-## Prerequisites:  
+## Prerequisites:
 
 [SPD 2.1](https://github.com/Make-School-Courses/SPD-2.1-Industry-Collaboration-Project)
 
@@ -26,7 +26,7 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Tue, Oct 22             | Intro to Developer Analytics & Data Driven Design |
+|  1 |   Tue, Oct 22             | [Intro to Developer Analytics & Data Driven Design] |
 |  2 |   Thu, Oct 24             | Sprint/Retro 1 |
 |  3 |   Tue, Oct 29             | [Intro to Growth Experiments & Funnel] |
 |  4 |   Thu, Oct 31             | Sprint/Retro 2 |
@@ -35,7 +35,7 @@ Students by the end of the course will be able to ...
 |  7 |   Tue, Nov 12             | [Metrics pt 2] |
 |  8 |   Thu, Nov 14             | Sprint/Retro 4 |
 |  9 |   Tue, Nov 19             | CI |
-| 10 |   Thu, Nov 21             | [Handoff Prep] + Sprint/Retro 5 |  
+| 10 |   Thu, Nov 21             | [Handoff Prep] + Sprint/Retro 5 |
 | 11 |   Tue, Nov 26             | Practice Presentations + LAB |
 | - |   Thu, Nov 28              | **NO CLASS** - Thanksgiving  |
 | 12 |   Tue, Dec 3              | Sprint/Retro 6 |
@@ -71,7 +71,7 @@ Students by the end of the course will be able to ...
 1. **Final Product** - Your team's final product should score an average of 3 on the [Portfolio Project Rubric](http://make.sc/portfolio-project-rubric)
     - **Due December 13th**
     - **Evaluation** - Team's project must above a 3 on the [Portfolio Project Rubric]
-    
+
 1. **[OPTIONAL Blog post](https://docs.google.com/document/d/1EQVdpws0rmoK2HwpHU0aiRY9Qh3xNkSjt4EHGwMlTEU/edit)** - Write a post to dive deep into some aspect of Growth Engineering OR capture the success of your growth experiment. This is recommended as a stretch challenge for anybody interested in the subject or students who want to be a PM, Engineering Lead, or work in an analytics role in the future.
 
 ## Collaboration Expectations
@@ -110,7 +110,7 @@ To pass this course you must meet the following requirements:
 - [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
 - [Grading System](https://make.sc/grading-system) - How grading is done at Make School
 - [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement) - Learn about Diversity and Inclusion at Make School
-- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct 
+- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
 - [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
