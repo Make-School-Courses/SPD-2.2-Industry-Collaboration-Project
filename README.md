@@ -53,7 +53,7 @@ Students by the end of the course will be able to ...
 
 ## Assignmnts
 
-1. **Add Analytics to a Personal Project** - add analytics to a live personal project of your choice. The ability to capture metrics will allow us to track stats on our growth experiments in our next assignment ...
+1. **Add Analytics to a Personal Project** - add analytics to a live personal project of your choice. The ability to capture metrics will allow us to track stats on our growth experiments in our next assignment. **If you do not have a live product for this**, use [these steps](https://docs.google.com/presentation/d/17jmlTEFsC3TGAtlnaOys4a60kemwEV9gxzbY7if08go/edit#slide=id.g1c37f911bc_0_56) to make a quick landing page you can use for this activity.
     - **Due Oct 29th**
     - **Evaluation** - TBD, will be defined Oct 23rd and announced
 
