@@ -28,7 +28,7 @@ Students by the end of the course will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |   Tue, Oct 22             | [Intro to Developer Analytics & Data Driven Design] |
 |  2 |   Thu, Oct 24             | Sprint/Retro 1 |
-|  3 |   Tue, Oct 29             | [Intro to Growth Experiments & Funnel] |
+|  3 |   Tue, Oct 29             | [Intro to Growth Experiments & Funnel](https://docs.google.com/presentation/d/1JHNEOUTT7KgR4zLYsKOOwiJQ5Yga69HCNMawwIokJks/edit#slide=id.g654d59ae48_0_9) |
 |  4 |   Thu, Oct 31             | Partner Feedback Checkin + Sprint/Retro 2 |
 |  5 |   Tue, Nov 5              | Custom Dashboarding |
 |  6 |   Thu, Nov 7              | [Pitches] + Sprint/Retro 3 |
