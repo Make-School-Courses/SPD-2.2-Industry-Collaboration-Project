@@ -64,6 +64,9 @@ Students by the end of the course will be able to ...
 1. **Peer Evaluations** - Get an average score above a 3 on your Peer Evaluation
     - __Conducted Nov 12th & Dec 5th__
 
+1. **Product V2** - ship team-decided version 2 of your product
+    - **Due Nov 19th**
+
 1. **Final Presentation** - A slide show presentation that details the team's process, product decisions, and suggestions for future development. Teams will invite their industry collaborator to their final presentation that occurs at the end of SPD 2.2. Here [tips](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0) for presentation slides.
     - **Due December 11th**
     - **Evaluation** - score an average of above a 3 on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit)
