@@ -30,7 +30,7 @@ Students by the end of the course will be able to ...
 |  2 |   Thu, Oct 24             | Sprint/Retro 1 |
 |  3 |   Tue, Oct 29             | [Intro to Growth Experiments & Funnel](https://docs.google.com/presentation/d/1JHNEOUTT7KgR4zLYsKOOwiJQ5Yga69HCNMawwIokJks/edit#slide=id.g654d59ae48_0_9) |
 |  4 |   Thu, Oct 31             | Partner Feedback Checkin + Sprint/Retro 2 |
-|  5 |   Tue, Nov 5              | Custom Dashboarding |
+|  5 |   Tue, Nov 5              | [Custom Dashboarding](https://docs.google.com/presentation/d/1pL1L97A99Te_AM6NfbXqtwKXmoH5EQzcEy98vQwj12Q/edit) |
 |  6 |   Thu, Nov 7              | [Pitches] + Sprint/Retro 3 |
 |  7 |   Tue, Nov 12             | [Metrics pt 2] |
 |  8 |   Thu, Nov 14             | Sprint/Retro 4 |
