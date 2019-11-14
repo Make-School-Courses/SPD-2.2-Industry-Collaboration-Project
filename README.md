@@ -33,13 +33,13 @@ Students by the end of the course will be able to ...
 |  5 |   Tue, Nov 5              | [Custom Dashboarding](https://docs.google.com/presentation/d/1pL1L97A99Te_AM6NfbXqtwKXmoH5EQzcEy98vQwj12Q/edit) |
 |  6 |   Thu, Nov 7              | [Pitches](https://docs.google.com/presentation/d/1bth-nBtPN4ZvytZHS57pcExEWrmfFNGyD8p-xII7gn0/edit#slide=id.g4cf79cf4e3_0_202) + Sprint/Retro 3 |
 |  7 |   Tue, Nov 12             | [Using Metrics](https://docs.google.com/presentation/d/1cfklRuBVZO4mRanvngIhgG3zBddVzPBQU7Fspn_SuBo/edit#slide=id.g65c8c408a1_0_7) |
-|  8 |   Thu, Nov 14             | [Handoff Prep](https://docs.google.com/presentation/d/1BtYFGDe7k7e50e2EHf5K3noqyaA7UH7EI5KaW8GTWXc/edit#slide=id.g4cf79cf4e3_0_214) + Sprint/Retro 4 |
+|  8 |   Thu, Nov 14             | Sprint/Retro 4 |
 |  9 |   Tue, Nov 19             | CI |
 | 10 |   Thu, Nov 21             | Sprint/Retro 5 |
-| 11 |   Tue, Nov 26             | Practice Presentations + LAB |
+| 11 |   Tue, Nov 26             |  LAB |
 | - |   Thu, Nov 28              | **NO CLASS** - Thanksgiving  |
-| 12 |   Tue, Dec 3              | Sprint/Retro 6 |
-| 13 |   Thu, Dec 5              | LAB |
+| 12 |   Tue, Dec 3              | Practice Presentations + Sprint/Retro 6 |
+| 13 |   Thu, Dec 5              | [Handoff Prep](https://docs.google.com/presentation/d/1BtYFGDe7k7e50e2EHf5K3noqyaA7UH7EI5KaW8GTWXc/edit#slide=id.g4cf79cf4e3_0_214) + LAB |
 | 14 |   Tue, Dec 10             | Final Presentation  |
 | 15 |   Thu, Dec 12             | Assessment  |
 
