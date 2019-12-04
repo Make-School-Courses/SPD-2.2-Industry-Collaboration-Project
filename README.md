@@ -41,7 +41,7 @@ Students by the end of the course will be able to ...
 | 12 |   Tue, Dec 3              | Practice Presentations + Sprint/Retro 6 |
 | 13 |   Thu, Dec 5              | [Handoff Prep](https://docs.google.com/presentation/d/1BtYFGDe7k7e50e2EHf5K3noqyaA7UH7EI5KaW8GTWXc/edit#slide=id.g4cf79cf4e3_0_214) + LAB |
 | 14 |   Tue, Dec 10             | Final Presentation  |
-| 15 |   Thu, Dec 12             | Assessment  |
+| 15 |   Thu, Dec 12             | Project Handoff  |
 
 
 [Intro to Developer Analytics & Data Driven Design]:Lessons/01-Analytics.md
