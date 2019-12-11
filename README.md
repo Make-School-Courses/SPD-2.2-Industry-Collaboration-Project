@@ -57,9 +57,9 @@ Students by the end of the course will be able to ...
     - **Due Oct 29th**
     - **Evaluation** - TBD, will be defined Oct 23rd and announced
 
-1. **Conduct two Growth Experiments** - conduct two growth experiments for a live personal product. If your product is not yet of quality that you are comfortable asking people to download, share it to get feedback and track engagement with your posts. [Instruction on how to conduct growth experiments](https://docs.google.com/presentation/d/1JHNEOUTT7KgR4zLYsKOOwiJQ5Yga69HCNMawwIokJks/edit#slide=id.g78d299954b_0_0)
+1. **Conduct two Growth Experiments** - conduct two growth experiments for a live personal product. If your product is not yet of quality that you are comfortable asking people to download, share it to get feedback and track engagement with your posts. [Instruction on how to conduct growth experiments](https://docs.google.com/presentation/d/1JHNEOUTT7KgR4zLYsKOOwiJQ5Yga69HCNMawwIokJks/edit#slide=id.g78d299954b_0_0).
     - **Due Nov 19th**
-    - **Evaluation** - Execution of three experiments
+    - **Evaluation** - Execution of two growth experiments
 
 1. **Peer Evaluations** - Get an average score above a 3 on your Peer Evaluation
     - __Conducted Nov 12th & Dec 5th__
