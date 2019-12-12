@@ -34,7 +34,7 @@ Students by the end of the course will be able to ...
 |  6 |   Thu, Nov 7              | [Pitches](https://docs.google.com/presentation/d/1bth-nBtPN4ZvytZHS57pcExEWrmfFNGyD8p-xII7gn0/edit#slide=id.g4cf79cf4e3_0_202) + Sprint/Retro 3 |
 |  7 |   Tue, Nov 12             | [Using Metrics](https://docs.google.com/presentation/d/1cfklRuBVZO4mRanvngIhgG3zBddVzPBQU7Fspn_SuBo/edit#slide=id.g65c8c408a1_0_7) |
 |  8 |   Thu, Nov 14             | Sprint/Retro 4 |
-|  9 |   Tue, Nov 19             | CI |
+|  9 |   Tue, Nov 19             | [Continuous Integration](https://docs.google.com/presentation/d/18DNt9UXHaPUufQogj-mThiKpvhkJzXprnPmQtaptUp8/edit#slide=id.p) |
 | 10 |   Thu, Nov 21             | Sprint/Retro 5 |
 | 11 |   Tue, Nov 26             |  LAB |
 | - |   Thu, Nov 28              | **NO CLASS** - Thanksgiving  |
