@@ -8,6 +8,12 @@ Students continue work on their industry collaboration project from last term. N
 
 [SPD 2.1](https://github.com/Make-School-Courses/SPD-2.1-Industry-Collaboration-Project)
 
+## Course Specifics
+
+**Course Delivery**: hybrid | 7 weeks | 14 sessions
+
+**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
+
 ## Learning Outcomes
 
 Students by the end of the course will be able to ...
@@ -107,6 +113,11 @@ To pass this course you must meet the following requirements:
  - [Sprint Retrospective Trello Board Template](https://trello.com/b/8tEv8Uaj/eng-retro-board-template).
 - **Letter of Engagement Templates** - customize [these templates](https://drive.google.com/drive/u/0/folders/1orfy2fxAccRzS1u8AF91bGAgugjT1F3c) to outline the objectives, scope, and timeline for your project.
 
+## Information Resources
+
+Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
+
+- [make.sc/library](http://make.sc/library)
 
 ## Make School Course Policies
 
