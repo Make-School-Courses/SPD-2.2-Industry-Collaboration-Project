@@ -59,6 +59,7 @@ Complete adding the tracking techniques of your choice by Tuesday, 10/29 (next w
 
 ## 📚 Resources & Credits
 
+- [Website Tracking: Why and How do Websites Track You?](https://www.cookiepro.com/blog/website-tracking/)
 - [Google Analytics for Beginners Video](https://www.youtube.com/watch?v=gBeMELnxdIg)
 - [Optimizely - A/B Testing](https://www.optimizely.com/optimization-glossary/ab-testing/)
 - [Optimizely - Heatmap](https://www.optimizely.com/optimization-glossary/heatmap/)
