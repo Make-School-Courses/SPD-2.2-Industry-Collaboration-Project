@@ -16,7 +16,7 @@
 
 1. Define web analytics.
 2. Compare and contrast different analytics techniques.
-3. Implement analytics in a personal project.
+3. Implement analytics in a personal project app or website.
 
 ## 💻 [15m] Warm Up: Think, Pair, Share
 
