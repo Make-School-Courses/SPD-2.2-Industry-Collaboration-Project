@@ -49,9 +49,10 @@ Ask yourself: What can a user click on? What are they trying to accomplish?
 - Google Analytics
 - Optimizely
 
-## 💻 [45m] Activity: Add Tracking
+## 💻 [45m] Activity: Pro-Con Data Driven Design
 
-Implement three different tracking techniques in your personal project.
+https://modus.medium.com/data-driven-design-is-killing-our-instincts-d448d141653d
+https://medium.com/myplanet-musings/get-started-in-data-driven-design-a1eb2edff72a
 
 ## 🌃 After Class
 
