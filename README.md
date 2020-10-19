@@ -26,28 +26,27 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
-**Course Dates:** Tuesday, October 22 – Thursday, December 12, 2019 (8 weeks)
+**Course Dates:** Thursday, October 22 – Tuesday, December 10, 2020 (8 weeks)
 
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (15 class sessions)
+**Class Times:** Tuesday and Thursday at 3:30 – 5:15pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Tue, Oct 22             | [Intro to Developer Analytics & Data Driven Design] |
-|  2 |   Thu, Oct 24             | Sprint/Retro 1 |
-|  3 |   Tue, Oct 29             | [Intro to Growth Experiments & Funnel](https://docs.google.com/presentation/d/1JHNEOUTT7KgR4zLYsKOOwiJQ5Yga69HCNMawwIokJks/edit#slide=id.g654d59ae48_0_9) |
-|  4 |   Thu, Oct 31             | Partner Feedback Checkin + Sprint/Retro 2 |
-|  5 |   Tue, Nov 5              | [Custom Dashboarding](https://docs.google.com/presentation/d/1pL1L97A99Te_AM6NfbXqtwKXmoH5EQzcEy98vQwj12Q/edit) |
-|  6 |   Thu, Nov 7              | [Pitches](https://docs.google.com/presentation/d/1bth-nBtPN4ZvytZHS57pcExEWrmfFNGyD8p-xII7gn0/edit#slide=id.g4cf79cf4e3_0_202) + Sprint/Retro 3 |
-|  7 |   Tue, Nov 12             | [Using Metrics](https://docs.google.com/presentation/d/1cfklRuBVZO4mRanvngIhgG3zBddVzPBQU7Fspn_SuBo/edit#slide=id.g65c8c408a1_0_7) |
-|  8 |   Thu, Nov 14             | Sprint/Retro 4 |
-|  9 |   Tue, Nov 19             | [Continuous Integration](https://docs.google.com/presentation/d/18DNt9UXHaPUufQogj-mThiKpvhkJzXprnPmQtaptUp8/edit#slide=id.p) |
-| 10 |   Thu, Nov 21             | Sprint/Retro 5 |
-| 11 |   Tue, Nov 26             |  LAB |
-| - |   Thu, Nov 28              | **NO CLASS** - Thanksgiving  |
-| 12 |   Tue, Dec 3              | Practice Presentations + Sprint/Retro 6 |
-| 13 |   Thu, Dec 5              | [Handoff Prep](https://docs.google.com/presentation/d/1BtYFGDe7k7e50e2EHf5K3noqyaA7UH7EI5KaW8GTWXc/edit#slide=id.g4cf79cf4e3_0_214) + LAB |
-| 14 |   Tue, Dec 10             | Final Presentation  |
-| 15 |   Thu, Dec 12             | [Project Handoff](https://docs.google.com/presentation/d/1RAy26zRnxZ3aETBS-6K30O6rZWkt2T3iIrQJp3TuU9c/edit#slide=id.g4cf79cf4e3_0_202)  |
+|  1 |   Thu, Oct 22             | [Intro to Developer Analytics & Data Driven Design] |
+|  2 |   Tue, Oct 27             | Sprint/Retro 1 |
+|  3 |   Thu, Oct 29             | [Intro to Growth Experiments & Funnel](https://docs.google.com/presentation/d/1JHNEOUTT7KgR4zLYsKOOwiJQ5Yga69HCNMawwIokJks/edit#slide=id.g654d59ae48_0_9) |
+|  - |   Tue, Nov 3             | **Vote! - Civic Responsibility Break** |
+|  4 |   Thu, Nov 5             | [Custom Dashboarding](https://docs.google.com/presentation/d/1pL1L97A99Te_AM6NfbXqtwKXmoH5EQzcEy98vQwj12Q/edit) |
+|  5 |   Tue, Nov 10              |  [Pitches](https://docs.google.com/presentation/d/1bth-nBtPN4ZvytZHS57pcExEWrmfFNGyD8p-xII7gn0/edit#slide=id.g4cf79cf4e3_0_202) + Sprint/Retro 2|
+|  6 |   Thu, Nov 12              | [Using Metrics](https://docs.google.com/presentation/d/1cfklRuBVZO4mRanvngIhgG3zBddVzPBQU7Fspn_SuBo/edit#slide=id.g65c8c408a1_0_7) |
+|  7 |   Tue, Nov 17             | Sprint/Retro 3 |
+|  8 |   Thu, Nov 19             | [Continuous Integration](https://docs.google.com/presentation/d/18DNt9UXHaPUufQogj-mThiKpvhkJzXprnPmQtaptUp8/edit#slide=id.p) |
+|  9 |   Tue, Nov 24             | LAB |
+| - |   Thu, Nov 26             | **Holiday- Thanksgiving** |
+| 10 |   Tue, Dec 1             | Practice Presentations + Sprint/Retro 4 |
+| 11 |   Thu, Dec 3             | [Handoff Prep](https://docs.google.com/presentation/d/1BtYFGDe7k7e50e2EHf5K3noqyaA7UH7EI5KaW8GTWXc/edit#slide=id.g4cf79cf4e3_0_214) + LAB  |
+| 12 |   Tue, Dec 8              | Final Presentation  |
+| 13 |   Thu, Dec 10              | [Project Handoff](https://docs.google.com/presentation/d/1RAy26zRnxZ3aETBS-6K30O6rZWkt2T3iIrQJp3TuU9c/edit#slide=id.g4cf79cf4e3_0_202)|
 
 
 [Intro to Developer Analytics & Data Driven Design]:Lessons/01-Analytics.md
@@ -57,7 +56,7 @@ Students by the end of the course will be able to ...
 [Handoff Prep]:(https://docs.google.com/presentation/d/1BtYFGDe7k7e50e2EHf5K3noqyaA7UH7EI5KaW8GTWXc/edit?usp=sharing)
 
 
-## Assignmnts
+## Assignments
 
 1. **Add Analytics to a Personal Project** - add analytics to a live personal project of your choice. The ability to capture metrics will allow us to track stats on our growth experiments in our next assignment. **If you do not have a live product for this**, use [these steps](https://docs.google.com/presentation/d/17jmlTEFsC3TGAtlnaOys4a60kemwEV9gxzbY7if08go/edit#slide=id.g1c37f911bc_0_56) to make a quick landing page you can use for this activity.
     - **Due Oct 29th**
