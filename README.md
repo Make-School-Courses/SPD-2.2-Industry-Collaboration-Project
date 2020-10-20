@@ -41,7 +41,7 @@ Students by the end of the course will be able to ...
 |  6 |   Thu, Nov 12              | [Using Metrics](https://docs.google.com/presentation/d/1cfklRuBVZO4mRanvngIhgG3zBddVzPBQU7Fspn_SuBo/edit#slide=id.g65c8c408a1_0_7) |
 |  7 |   Tue, Nov 17             | Sprint/Retro 3 |
 |  8 |   Thu, Nov 19             | [Continuous Integration](https://docs.google.com/presentation/d/18DNt9UXHaPUufQogj-mThiKpvhkJzXprnPmQtaptUp8/edit#slide=id.p) |
-|  9 |   Tue, Nov 24             | LAB |
+|  9 |   Tue, Nov 24             | Handoff pt 1 |
 | - |   Thu, Nov 26             | **Holiday- Thanksgiving** |
 | 10 |   Tue, Dec 1             | Practice Presentations + Sprint/Retro 4 |
 | 11 |   Thu, Dec 3             | [Handoff Prep](https://docs.google.com/presentation/d/1BtYFGDe7k7e50e2EHf5K3noqyaA7UH7EI5KaW8GTWXc/edit#slide=id.g4cf79cf4e3_0_214) + LAB  |
