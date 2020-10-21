@@ -58,29 +58,49 @@ Students by the end of the course will be able to ...
 
 ## Assignments
 
-1. **Add Analytics to a Personal Project** - add analytics to a live personal project of your choice. The ability to capture metrics will allow us to track stats on our growth experiments in our next assignment. **If you do not have a live product for this**, use [these steps](https://docs.google.com/presentation/d/17jmlTEFsC3TGAtlnaOys4a60kemwEV9gxzbY7if08go/edit#slide=id.g1c37f911bc_0_56) to make a quick landing page you can use for this activity.
-    - **Due Oct 29th**
-    - **Evaluation** - TBD, will be defined Oct 23rd and announced
+### **1. Analytics and Growth Assignment**
+Successful engineers and product developers know the performance of their products. How? Through on-site metrics. Metrics inform feature prioritization, design success, user validation, business objectives and are used by marketing, finance, QA, founders, and almost every division of the business. You’ll be a wicked wise engineer if know how to implement and analyze the metrics on your products. This term, you’ll pick one of three options to demonstrate your mastery of these concepts:
 
-1. **Conduct two Growth Experiments** - conduct two growth experiments for a live personal product. If your product is not yet of quality that you are comfortable asking people to download, share it to get feedback and track engagement with your posts. [Instruction on how to conduct growth experiments](https://docs.google.com/presentation/d/1JHNEOUTT7KgR4zLYsKOOwiJQ5Yga69HCNMawwIokJks/edit#slide=id.g78d299954b_0_0).
-    - **Due Nov 19th**
-    - **Evaluation** - Execution of two growth experiments
+**CHOOSE ONE OPTION BELOW:**
 
-1. **Peer Evaluations** - Get an average score above a 3 on your Peer Evaluation
-    - __Conducted Nov 12th & Dec 5th__
+**Option 1: Analytics and Growth Experiments in your own project (assignment coming soon)**
+*Good for people interested in startups, entrepreneurship*
+- Install analytics on one of your personal projects or a new landing page
+- Do two growth experiments
+- Write a short blog post about it
 
-1. **Product V2** - ship team-decided version 2 of your product
-    - **Due Nov 14th**
+**Option 2: Metrics and Engineering challenges (assignment coming soon)**
+*Good for folks of more engineering-focused students*
+- Answer questions on growth case studies
+- Complete challenges related conceptual knowledge
+- Advise teammates on case studies
 
-1. **Final Presentation** - A slide show presentation that details the team's process, product decisions, and suggestions for future development. Teams will invite their industry collaborator to their final presentation that occurs at the end of SPD 2.2. Here [tips](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0) for presentation slides.
-    - **Due December 11th**
-    - **Evaluation** - score an average of above a 3 on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit)
+**Option 3: Make School’s web analytics (assignment coming soon)**
+*Good for PMs*
+- Get access to analytics on Makeschool.com
+- Answer analysis questions
+- Make decisions based on data
 
-1. **Final Product** - Your team's final product should score an average of 3 on the [Portfolio Project Rubric](http://make.sc/portfolio-project-rubric)
-    - **Due December 11th**
-    - **Evaluation** - Team's project must above a 3 on the [Portfolio Project Rubric]
+**DUE NOV 24**
 
-1. **[OPTIONAL Blog post](https://docs.google.com/document/d/1EQVdpws0rmoK2HwpHU0aiRY9Qh3xNkSjt4EHGwMlTEU/edit)** - Write a post to dive deep into some aspect of Growth Engineering OR capture the success of your growth experiment. This is recommended as a stretch challenge for anybody interested in the subject or students who want to be a PM, Engineering Lead, or work in an analytics role in the future.
+### **2. Peer Evaluations** 
+Get an average score above a 3 on your Peer Evaluation
+ - **Conducted Nov 5th & Dec 1st**
+
+### **3. Product V2** 
+Ship team-decided version 2 of your product
+ - **Due Nov 12th**
+
+### **4. Final Presentation** 
+A slide show presentation that details the team's process, product decisions, and suggestions for future development. Teams will invite their industry collaborator to their final presentation that occurs at the end of SPD 2.2. Here [tips](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0) for presentation slides.
+ - **Due December 8 or 10th**
+ - **Evaluation** - score an average of above a 3 on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit)
+
+### **5. Final Product**
+Your team's final product should score an average of 3 on the [Portfolio Project Rubric](http://make.sc/portfolio-project-rubric)
+ - **Due December 10th**
+ - **Evaluation** - Team's project must above a 3 on the [Portfolio Project Rubric](http://make.sc/portfolio-project-rubric)
+
 
 ## Collaboration Expectations
 
@@ -104,13 +124,13 @@ To pass this course you must meet the following requirements:
 - **User Interviews** - user interviews help you understand and validate user needs. Here are user interview [best practices](https://docs.google.com/presentation/d/1xtUGbErF315eKkvVAstTnWzoXLmpygtf6YGTEMYwg_A/edit#slide=id.p) and a [template script](https://docs.google.com/document/d/1uRRKejC3Ullk5vdw9P1SHmE56CGkekH2dIaoBV9ISeM/edit)
 - **Best Practices for User Narratives, Wireframe, Entity Relationship Diagram** - see [best practice articles, videos, and slides](https://docs.google.com/document/d/1uCxdv8N0TltGNS1YLOS8SkD0uLcir0Wg2I9pxS_PL_w/edit#) See [class slides](https://docs.google.com/presentation/d/1ALBDn3bIycimyvnB6fEOAMadDOCA4wmoOO9Z-lpBRsM/edit#slide=id.g3e71f5355a_0_26) here.
 - **Sprint Planning Meetings (1 hour, weekly)**
- - [Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.xffidahcubfs)
- - [Planning Poker](https://en.wikipedia.org/wiki/Planning_poker)
- - [Sprint Planning Trello Board template](https://trello.com/b/ftyBKJb3/eng-sprint-board-template).
+    - [Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.xffidahcubfs)
+    - [Planning Poker](https://en.wikipedia.org/wiki/Planning_poker)
+    - [Sprint Planning Trello Board template](https://trello.com/b/ftyBKJb3/eng-sprint-board-template).
 - **Sprint Retrospective (½ hour, weekly)**
- - [Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)
- - [Sprint Retrospective Trello Board Template](https://trello.com/b/8tEv8Uaj/eng-retro-board-template).
-- **Letter of Engagement Templates** - customize [these templates](https://drive.google.com/drive/u/0/folders/1orfy2fxAccRzS1u8AF91bGAgugjT1F3c) to outline the objectives, scope, and timeline for your project.
+    - [Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)
+    - [Sprint Retrospective Trello Board Template](https://trello.com/b/8tEv8Uaj/eng-retro-board-template).
+    - **Letter of Engagement Templates** - customize [these templates](https://drive.google.com/drive/u/0/folders/1orfy2fxAccRzS1u8AF91bGAgugjT1F3c) to outline the objectives, scope, and timeline for your project.
 
 ## Information Resources
 
