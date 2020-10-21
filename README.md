@@ -91,6 +91,9 @@ Get an average score above a 3 on your Peer Evaluation
 Ship team-decided version 2 of your product
  - **Due Nov 12th**
 
+### **4. Continuous Integration in-class assignment**
+- **Due Nov 24th**
+
 ### **4. Final Presentation** 
 A slide show presentation that details the team's process, product decisions, and suggestions for future development. Teams will invite their industry collaborator to their final presentation that occurs at the end of SPD 2.2. Here [tips](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0) for presentation slides.
  - **Due December 8 or 10th**
