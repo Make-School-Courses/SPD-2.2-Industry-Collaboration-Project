@@ -49,7 +49,7 @@ Students by the end of the course will be able to ...
 | 13 |   Thu, Dec 10              | [Project Handoff](https://docs.google.com/presentation/d/1RAy26zRnxZ3aETBS-6K30O6rZWkt2T3iIrQJp3TuU9c/edit#slide=id.g4cf79cf4e3_0_202)|
 
 
-[Intro to Developer Analytics & Data Driven Design]:Lessons/01-Analytics.md
+[Intro to Developer Analytics & Data Driven Design]: (https://docs.google.com/presentation/d/1zJ_KJYrtzIplyWfSkj8tFXG5x9VH88QJrsn6NNc4kNQ/edit?usp=sharing)
 [Intro to Growth Experiments & Funnel]: (https://docs.google.com/presentation/d/1JHNEOUTT7KgR4zLYsKOOwiJQ5Yga69HCNMawwIokJks/edit?usp=sharing)
 [Pitches]:(https://docs.google.com/presentation/d/1bth-nBtPN4ZvytZHS57pcExEWrmfFNGyD8p-xII7gn0/edit?usp=sharing)
 [Metrics pt 2]:(https://docs.google.com/presentation/d/1cfklRuBVZO4mRanvngIhgG3zBddVzPBQU7Fspn_SuBo/edit?usp=sharing)
