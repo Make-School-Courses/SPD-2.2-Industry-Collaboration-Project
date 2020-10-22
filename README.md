@@ -72,8 +72,8 @@ Successful engineers and product developers know the performance of their produc
 **Option 2: Metrics and Engineering challenges (assignment coming soon)** <br>
 *Good for folks of more engineering-focused students*
 - Answer questions on growth case studies
-- Complete challenges related conceptual knowledge
-- Advise teammates on case studies
+- Complete challenges related to conceptual knowledge
+- Advise teammates on data driven decisions
 
 **Option 3: Make School’s web analytics (assignment coming soon)** <br>
 *Good for PMs*
