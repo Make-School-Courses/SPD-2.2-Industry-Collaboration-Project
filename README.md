@@ -63,7 +63,7 @@ Successful engineers and product developers know the performance of their produc
 
 **CHOOSE ONE OPTION BELOW:**
 
-**Option 1: Analytics and Growth Experiments in your own project (assignment coming soon)** <br>
+**Option 1: Analytics and Growth Experiments in your own project ([Assignment HERE](https://docs.google.com/document/d/1EQVdpws0rmoK2HwpHU0aiRY9Qh3xNkSjt4EHGwMlTEU/edit))** <br>
 *Good for people interested in startups, entrepreneurship*
 - Install analytics on one of your personal projects or a new landing page
 - Do two growth experiments
