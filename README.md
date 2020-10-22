@@ -32,7 +32,7 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Thu, Oct 22             | [Intro to Developer Analytics & Data Driven Design] |
+|  1 |   Thu, Oct 22             | [Intro to Developer Analytics & Data Driven Design](https://docs.google.com/presentation/d/1zJ_KJYrtzIplyWfSkj8tFXG5x9VH88QJrsn6NNc4kNQ/edit#slide=id.g8c35e40ef3_0_0) |
 |  2 |   Tue, Oct 27             | Sprint/Retro 1 |
 |  3 |   Thu, Oct 29             | [Intro to Growth Experiments & Funnel](https://docs.google.com/presentation/d/1JHNEOUTT7KgR4zLYsKOOwiJQ5Yga69HCNMawwIokJks/edit#slide=id.g654d59ae48_0_9) |
 |  - |   Tue, Nov 3             | **Vote! - Civic Responsibility Break** |
