@@ -36,9 +36,9 @@ Students by the end of the course will be able to ...
 |  2 |   Tue, Oct 27             | Analytics Demos + Sprint/Retro 1 |
 |  3 |   Thu, Oct 29             | [Intro to Growth Experiments & Funnel](https://docs.google.com/presentation/d/1JHNEOUTT7KgR4zLYsKOOwiJQ5Yga69HCNMawwIokJks/edit#slide=id.g654d59ae48_0_9) |
 |  - |   Tue, Nov 3             | **Vote! - Civic Responsibility Break** |
-|  4 |   Thu, Nov 5             | [Custom Dashboarding](https://docs.google.com/presentation/d/1pL1L97A99Te_AM6NfbXqtwKXmoH5EQzcEy98vQwj12Q/edit) |
+|  4 |   Thu, Nov 5             | [Using Metrics](https://docs.google.com/presentation/d/1cfklRuBVZO4mRanvngIhgG3zBddVzPBQU7Fspn_SuBo/edit#slide=id.g65c8c408a1_0_7) |
 |  5 |   Tue, Nov 10              |  [Pitches](https://docs.google.com/presentation/d/1bth-nBtPN4ZvytZHS57pcExEWrmfFNGyD8p-xII7gn0/edit#slide=id.g4cf79cf4e3_0_202) + Sprint/Retro 2|
-|  6 |   Thu, Nov 12              | [Using Metrics](https://docs.google.com/presentation/d/1cfklRuBVZO4mRanvngIhgG3zBddVzPBQU7Fspn_SuBo/edit#slide=id.g65c8c408a1_0_7) |
+|  6 |   Thu, Nov 12              | Review & Work on Analytics & Growth Assignment |
 |  7 |   Tue, Nov 17             | Sprint/Retro 3 |
 |  8 |   Thu, Nov 19             | [Continuous Integration](https://docs.google.com/presentation/d/18DNt9UXHaPUufQogj-mThiKpvhkJzXprnPmQtaptUp8/edit#slide=id.p) |
 |  9 |   Tue, Nov 24             | Handoff pt 1 |
