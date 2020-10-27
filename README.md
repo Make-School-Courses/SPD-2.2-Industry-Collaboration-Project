@@ -63,19 +63,19 @@ Successful engineers and product developers know the performance of their produc
 
 **CHOOSE ONE OPTION BELOW:**
 
-**Option 1: Analytics and Growth Experiments in your own project ([Assignment HERE](https://docs.google.com/document/d/1EQVdpws0rmoK2HwpHU0aiRY9Qh3xNkSjt4EHGwMlTEU/edit))** <br>
+**Option 1: Analytics and Growth Experiments in your own project ([Assignment HERE](https://www.gradescope.com/courses/201198/assignments/767092/))** <br>
 *Good for people interested in startups, entrepreneurship*
 - Install analytics on one of your personal projects or a new landing page
 - Do two growth experiments
 - Write a short blog post about it
 
-**Option 2: Metrics and Engineering challenges (assignment coming soon)** <br>
+**Option 2: Metrics and Engineering challenges ([ASSIGNMENT HERE](https://www.gradescope.com/courses/201198/assignments/767093/))** <br>
 *Good for folks of more engineering-focused students*
 - Answer questions on growth case studies
 - Complete challenges related to conceptual knowledge
 - Advise teammates on data driven decisions
 
-**Option 3: Make School’s web analytics (assignment coming soon)** <br>
+**Option 3: Make School’s web analytics ([ASSIGNMENT HERE](https://www.gradescope.com/courses/201198/assignments/794179/))** <br>
 *Good for PMs*
 - Get access to analytics on Makeschool.com
 - Answer analysis questions
