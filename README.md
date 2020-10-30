@@ -118,9 +118,9 @@ Your team's final product should score an average of 3 on the [Portfolio Project
 
 To pass this course you must meet the following requirements:
 
-- Complete all required tutorials
+- Complete all required projects
 - Pass all projects according to the associated project rubric
-- Present a Product
+- Present a Product at the Final Presentation
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
