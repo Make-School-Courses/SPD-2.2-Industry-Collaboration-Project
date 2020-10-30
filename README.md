@@ -34,7 +34,7 @@ Students by the end of the course will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |   Thu, Oct 22             | [Intro to Developer Analytics & Data Driven Design](https://docs.google.com/presentation/d/1zJ_KJYrtzIplyWfSkj8tFXG5x9VH88QJrsn6NNc4kNQ/edit#slide=id.g8c35e40ef3_0_0) |
 |  2 |   Tue, Oct 27             | Analytics Demos, [Demo Slides](https://docs.google.com/presentation/d/1Ak32ZSVJTWNqQkyWR2dLQMwwsJp3PzA3LPXphrwghi8/edit#slide=id.g4ca8585f74_0_678), [Demo Video](https://drive.google.com/file/d/1tRcX1wg2TIuaJp4H5pVHhMmYWRtCrZ0d/view?usp=sharing) + Sprint/Retro 1 |
-|  3 |   Thu, Oct 29             | [Intro to Growth Experiments & Funnel](https://docs.google.com/presentation/d/1JHNEOUTT7KgR4zLYsKOOwiJQ5Yga69HCNMawwIokJks/edit#slide=id.g654d59ae48_0_9) |
+|  3 |   Thu, Oct 29             |[Intro to Growth Experiments & Funnel Slides](https://docs.google.com/presentation/d/1JHNEOUTT7KgR4zLYsKOOwiJQ5Yga69HCNMawwIokJks/edit#slide=id.g654d59ae48_0_9), [Lecture Video](https://drive.google.com/file/d/1GEJu0h8fG4oRqu_N0dipbwFGY9lrGCqH/view?usp=sharing) |
 |  - |   Tue, Nov 3             | **Vote! - Civic Responsibility Break** |
 |  4 |   Thu, Nov 5             | [Using Metrics](https://docs.google.com/presentation/d/1cfklRuBVZO4mRanvngIhgG3zBddVzPBQU7Fspn_SuBo/edit#slide=id.g65c8c408a1_0_7) |
 |  5 |   Tue, Nov 10              |  [Pitches](https://docs.google.com/presentation/d/1bth-nBtPN4ZvytZHS57pcExEWrmfFNGyD8p-xII7gn0/edit#slide=id.g4cf79cf4e3_0_202) + Sprint/Retro 2|
