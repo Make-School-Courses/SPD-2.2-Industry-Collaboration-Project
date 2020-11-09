@@ -38,7 +38,7 @@ Students by the end of the course will be able to ...
 |  - |   Tue, Nov 3             | **Vote! - Civic Responsibility Break** |
 |  4 |   Thu, Nov 5             | [Using Metrics](https://docs.google.com/presentation/d/1cfklRuBVZO4mRanvngIhgG3zBddVzPBQU7Fspn_SuBo/edit#slide=id.g65c8c408a1_0_7) |
 |  5 |   Tue, Nov 10              |  [Pitches](https://docs.google.com/presentation/d/1bth-nBtPN4ZvytZHS57pcExEWrmfFNGyD8p-xII7gn0/edit#slide=id.g4cf79cf4e3_0_202) + Sprint/Retro 2|
-|  6 |   Thu, Nov 12              | Review & Work on Analytics & Growth Assignment |
+|  6 |   Thu, Nov 12              | [Review & Work on Analytics & Growth Assignment](https://docs.google.com/presentation/d/1hW2VnHBrGh_Uwb6MWCb5xwG9HZGST8xGwEm-rUDu1aI/edit#slide=id.g54095b0789_0_5) |
 |  7 |   Tue, Nov 17             | Sprint/Retro 3 |
 |  8 |   Thu, Nov 19             | [Continuous Integration](https://docs.google.com/presentation/d/18DNt9UXHaPUufQogj-mThiKpvhkJzXprnPmQtaptUp8/edit#slide=id.p) |
 |  9 |   Tue, Nov 24             | Handoff pt 1 |
