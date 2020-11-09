@@ -93,7 +93,7 @@ Ship team-decided version 2 of your product
  - **Due Nov 12th**
  - **Evaluation** - Team's project must above a 2 on the [Portfolio Project Rubric](http://make.sc/portfolio-project-rubric)
 
-### **4. Continuous Integration in-class assignment**
+### **3.5. Continuous Integration in-class assignment**
 - **Due Nov 24th**
 - **Evaluation** - to be determind
 
