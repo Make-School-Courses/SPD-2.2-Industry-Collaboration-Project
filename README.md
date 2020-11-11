@@ -36,9 +36,9 @@ Students by the end of the course will be able to ...
 |  2 |   Tue, Oct 27             | [Analytics Demo](https://docs.google.com/presentation/d/1Ak32ZSVJTWNqQkyWR2dLQMwwsJp3PzA3LPXphrwghi8/edit#slide=id.g4ca8585f74_0_678), [Demo Video](https://drive.google.com/file/d/1tRcX1wg2TIuaJp4H5pVHhMmYWRtCrZ0d/view?usp=sharing) + Sprint/Retro 1 |
 |  3 |   Thu, Oct 29             |[Intro to Growth Experiments & Funnel Slides](https://docs.google.com/presentation/d/1JHNEOUTT7KgR4zLYsKOOwiJQ5Yga69HCNMawwIokJks/edit#slide=id.g654d59ae48_0_9), [Lecture Video](https://drive.google.com/file/d/1GEJu0h8fG4oRqu_N0dipbwFGY9lrGCqH/view?usp=sharing) |
 |  - |   Tue, Nov 3             | **Vote! - Civic Responsibility Break** |
-|  4 |   Thu, Nov 5             | [Using Metrics](https://docs.google.com/presentation/d/1cfklRuBVZO4mRanvngIhgG3zBddVzPBQU7Fspn_SuBo/edit#slide=id.g65c8c408a1_0_7) |
+|  4 |   Thu, Nov 5             | [Using Metrics](https://docs.google.com/presentation/d/1cfklRuBVZO4mRanvngIhgG3zBddVzPBQU7Fspn_SuBo/edit#slide=id.g65c8c408a1_0_7), [Lecture Video](https://drive.google.com/file/d/1ujHZzrn-lXz8lPeNwXKBeQ2_N8xxs-tg/view?usp=sharing) |
 |  5 |   Tue, Nov 10              |  [Pitches](https://docs.google.com/presentation/d/1bth-nBtPN4ZvytZHS57pcExEWrmfFNGyD8p-xII7gn0/edit#slide=id.g4cf79cf4e3_0_202) + Sprint/Retro 2|
-|  6 |   Thu, Nov 12              | [Review & Work on Analytics & Growth Assignment](https://docs.google.com/presentation/d/1hW2VnHBrGh_Uwb6MWCb5xwG9HZGST8xGwEm-rUDu1aI/edit#slide=id.g54095b0789_0_5) |
+|  6 |   Thu, Nov 12              | [Review & Work on Analytics & Growth Assignment](https://docs.google.com/presentation/d/1hW2VnHBrGh_Uwb6MWCb5xwG9HZGST8xGwEm-rUDu1aI/edit#slide=id.g54095b0789_0_5), [Lecture Video](https://drive.google.com/file/d/18Oik728-6NO389fqEOd_HDSJfOUF32xV/view?usp=sharing) |
 |  7 |   Tue, Nov 17             | Sprint/Retro 3 |
 |  8 |   Thu, Nov 19             | [Continuous Integration](https://docs.google.com/presentation/d/18DNt9UXHaPUufQogj-mThiKpvhkJzXprnPmQtaptUp8/edit#slide=id.p) |
 |  9 |   Tue, Nov 24             | Handoff pt 1 |
