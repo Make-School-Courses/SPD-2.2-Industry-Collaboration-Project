@@ -85,11 +85,11 @@ Successful engineers and product developers know the performance of their produc
 **Evaluation** - correctly score above 70% of the points allocated to the questions in Gradescope
 
 ### **2. Peer Evaluations** 
-Get an average score above a 3 on your Peer Evaluation. Students who perform below a 3 on the first evaluation can still pass if their second evaluation is above a 3. Peer evaluation form will be given out in class and on Gradescope.
+Get an average score above a 3 on your Peer Evaluation. Students who perform below a 3 on the first evaluation can still pass if their second evaluation is above a 3. Peer evaluation form will be given out in class and on Gradescope. The peer evaluation involves peers ranking their teammates on a 1-5 scale across 7 dimensions of collaboration - these dimensions are weighted equally to come up with a composite score that must be above a 3 to pass.
  - **Conducted Nov 5th & Dec 1st**
 
 ### **3. Product V2** 
-Ship team-decided version 2 of your product. This product was started in SPD 2.1 and is a continuation of the industry collaboration project. Students are building their product in partnership with an actual organization in industry. Student teams determine goals for their V2 along with the instructor and industry partner. 
+Ship team-decided version 2 of your product. This product was started in SPD 2.1 and is a continuation of the industry collaboration project. Students are building their product in partnership with an actual organization in industry which will help them develop cross-department collaboration skills. Student teams determine goals for their V2 along with the instructor and industry partner. 
  - **Due Nov 12th**
  - **Evaluation** - Team's project must above a 2 on the [Portfolio Project Rubric](http://make.sc/portfolio-project-rubric)
 
