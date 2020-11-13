@@ -81,7 +81,7 @@ Successful engineers and product developers know the performance of their produc
 - Answer analysis questions
 - Make decisions based on data
 
-**DUE NOV 24**
+**DUE NOV 24** <br>
 **Evaluation** - correctly score above 70% of the points allocated to the questions in Gradescope
 
 ### **2. Peer Evaluations** 
