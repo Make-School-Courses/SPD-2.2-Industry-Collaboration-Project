@@ -85,17 +85,13 @@ Successful engineers and product developers know the performance of their produc
 **Evaluation** - correctly score above 70% of the points allocated to the questions in Gradescope
 
 ### **2. Peer Evaluations** 
-Get an average score above a 3 on your Peer Evaluation
+Get an average score above a 3 on your Peer Evaluation. Students who perform below a 3 on the first evaluation can still pass if their second evaluation is above a 3. Peer evaluation form will be given out in class and on Gradescope.
  - **Conducted Nov 5th & Dec 1st**
 
 ### **3. Product V2** 
-Ship team-decided version 2 of your product
+Ship team-decided version 2 of your product. This product was started in SPD 2.1 and is a continuation of the industry collaboration project. Students are building their product in partnership with an actual organization in industry. Student teams determine goals for their V2 along with the instructor and industry partner. 
  - **Due Nov 12th**
  - **Evaluation** - Team's project must above a 2 on the [Portfolio Project Rubric](http://make.sc/portfolio-project-rubric)
-
-### **3.5. Continuous Integration in-class assignment**
-- **Due Nov 24th**
-- **Evaluation** - to be determind
 
 ### **4. Final Presentation** 
 A slide show presentation that details the team's process, product decisions, and suggestions for future development. Teams will invite their industry collaborator to their final presentation that occurs at the end of SPD 2.2. Here [tips](https://docs.google.com/presentation/d/14ZPXQngoyMs_pmAQHNQZhZjOI63KjTbkwOfcq0CG_tA/edit#slide=id.g46c3cc2153_0_0) for presentation slides.
@@ -103,7 +99,7 @@ A slide show presentation that details the team's process, product decisions, an
  - **Evaluation** - score an average of above a 3 on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit)
 
 ### **5. Final Product**
-Your team's final product should score an average of 3 on the [Portfolio Project Rubric](http://make.sc/portfolio-project-rubric)
+Your team's final product should score an average of 3 on the [Portfolio Project Rubric](http://make.sc/portfolio-project-rubric). This is an improvement over 
  - **Due December 10th**
  - **Evaluation** - Team's project must above a 3 on the [Portfolio Project Rubric](http://make.sc/portfolio-project-rubric)
 
@@ -118,8 +114,7 @@ Your team's final product should score an average of 3 on the [Portfolio Project
 
 To pass this course you must meet the following requirements:
 
-- Complete all required projects
-- Pass all projects according to the associated project rubric
+- Pass 80% assignments according to the associated project rubric
 - Present a Product at the Final Presentation
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
