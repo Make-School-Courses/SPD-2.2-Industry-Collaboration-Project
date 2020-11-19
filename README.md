@@ -132,6 +132,7 @@ To pass this course you must meet the following requirements:
     - [Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)
     - [Sprint Retrospective Trello Board Template](https://trello.com/b/8tEv8Uaj/eng-retro-board-template).
     - **Letter of Engagement Templates** - customize [these templates](https://drive.google.com/drive/u/0/folders/1orfy2fxAccRzS1u8AF91bGAgugjT1F3c) to outline the objectives, scope, and timeline for your project.
+- **Advanced Gitflow** - [tutorials and articles](https://docs.google.com/document/d/1S2vixbRF0PaznGaYUL_Y2ObPUz3AY-LUg3nCYYWhz24/edit#) on Git collaboration basics, advanced issues of merge conflicts, with many supportive articles.
 
 ## Information Resources
 
