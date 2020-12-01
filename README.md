@@ -43,10 +43,10 @@ Students by the end of the course will be able to ...
 |  8 |   Thu, Nov 19             | [Continuous Integration](https://docs.google.com/presentation/d/18DNt9UXHaPUufQogj-mThiKpvhkJzXprnPmQtaptUp8/edit#slide=id.p) |
 |  9 |   Tue, Nov 24             | Handoff pt 1 |
 | - |   Thu, Nov 26             | **Holiday- Thanksgiving** |
-| 10 |   Tue, Dec 1             | Practice Presentations + Sprint/Retro 4 |
-| 11 |   Thu, Dec 3             | [Handoff Prep](https://docs.google.com/presentation/d/1BtYFGDe7k7e50e2EHf5K3noqyaA7UH7EI5KaW8GTWXc/edit#slide=id.g4cf79cf4e3_0_214) + LAB  |
-| 12 |   Tue, Dec 8              | Final Presentation  |
-| 13 |   Thu, Dec 10              | [Project Handoff](https://docs.google.com/presentation/d/1RAy26zRnxZ3aETBS-6K30O6rZWkt2T3iIrQJp3TuU9c/edit#slide=id.g4cf79cf4e3_0_202)|
+| 10 |   Tue, Dec 1             | Prep for presentations + Sprint/Retro 4 |
+| 11 |   Thu, Dec 3             | Practice Pitches + LAB  |
+| 12 |   Tue, Dec 8              | Final Presentations  |
+| 13 |   Thu, Dec 10              | Final Presentations [Project Handoff](https://docs.google.com/presentation/d/1RAy26zRnxZ3aETBS-6K30O6rZWkt2T3iIrQJp3TuU9c/edit#slide=id.g4cf79cf4e3_0_202)|
 
 
 [Intro to Developer Analytics & Data Driven Design]: (https://docs.google.com/presentation/d/1zJ_KJYrtzIplyWfSkj8tFXG5x9VH88QJrsn6NNc4kNQ/edit?usp=sharing)
