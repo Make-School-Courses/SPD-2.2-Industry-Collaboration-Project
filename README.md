@@ -59,7 +59,7 @@ Students by the end of the course will be able to ...
 ## Assignments
 
 ### **1. Analytics and Growth Assignment**
-Successful engineers and product developers know the performance of their products. How? Through on-site metrics. Metrics inform feature prioritization, design success, user validation, business objectives and are used by marketing, finance, QA, founders, and almost every division of the business. You’ll be a wicked wise engineer if know how to implement and analyze the metrics on your products. This term, you’ll PICK ONE of three options to demonstrate your mastery of these concepts:
+Successful engineers and product developers know the performance of their products. How? Through on-site metrics. Metrics inform feature prioritization, design success, user validation, business objectives and are used by marketing, finance, QA, founders, and almost every division of the business. You’ll be a wicked wise engineer if know how to implement and analyze the metrics on your products. This is an assignment you will do solo on your own (without working with your team) and submit individually. This term, you’ll PICK ONE of three options to demonstrate your mastery of these concepts:
 
 **CHOOSE ONE OPTION BELOW:**
 
